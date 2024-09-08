@@ -1,42 +1,42 @@
 [
   {
     "name": "Main Dedicated Server",
-    "url": "${{ secrets.DED_IP }}",
+    "url": "ipv4.edenmine.eu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-dedicated-server",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "3.64%",
+    "uptimeDay": "3.64%",
+    "uptimeWeek": "3.64%",
+    "uptimeMonth": "3.64%",
+    "uptimeYear": "3.64%",
+    "time": 157,
+    "timeDay": 157,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {
-      "2024-09-08": 0
+      "2024-09-08": 2
     }
   },
   {
     "name": "Web Server",
-    "url": "${{ secrets.WEB_IP }}",
+    "url": "edenmine.eu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-server",
-    "status": "down",
-    "uptime": "0.53%",
-    "uptimeDay": "0.53%",
-    "uptimeWeek": "0.53%",
-    "uptimeMonth": "0.53%",
-    "uptimeYear": "0.53%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.46%",
+    "uptimeDay": "2.46%",
+    "uptimeWeek": "2.46%",
+    "uptimeMonth": "2.46%",
+    "uptimeYear": "2.46%",
+    "time": 2,
+    "timeDay": 2,
+    "timeWeek": 2,
+    "timeMonth": 2,
+    "timeYear": 2,
     "dailyMinutesDown": {
-      "2024-09-08": 0
+      "2024-09-08": 2
     }
   }
 ]
