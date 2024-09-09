@@ -9,7 +9,7 @@ sites:
     check: "tcp-ping"
     ipv6: false
   - name: Web Server
-    url: edenmine.eu
+    url: 178.218.144.44
     port: 80
     check: "tcp-ping"
     ipv6: false
