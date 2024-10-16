@@ -10,7 +10,7 @@ sites:
     ipv6: false
   - name: Web Server
     url: 178.218.144.44
-    port: 80
+    port: 443
     check: "tcp-ping"
     ipv6: false
 
