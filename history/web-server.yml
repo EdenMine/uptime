@@ -1,7 +1,7 @@
-url: 178.218.144.44
+url: $WEB_IP
 status: up
 code: 200
-responseTime: 91
-lastUpdated: 2024-10-16T19:13:59.655Z
+responseTime: 94
+lastUpdated: 2024-10-16T19:27:41.361Z
 startTime: 2024-09-08T14:24:55.875Z
 generator: Upptime <https://github.com/upptime/upptime>
