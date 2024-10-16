@@ -4,12 +4,12 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Main Dedicated Server
-    url: ipv4.edenmine.eu
+    url: $DED_IP
     port: 25565
     check: "tcp-ping"
     ipv6: false
   - name: Web Server
-    url: 178.218.144.44
+    url: $WEB_IP
     port: 443
     check: "tcp-ping"
     ipv6: false
