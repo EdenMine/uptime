@@ -1,7 +1,7 @@
 url: $DED_IP
-status: up
-code: 200
+status: down
+code: 0
 responseTime: 0
-lastUpdated: 2024-10-21T08:28:53.772Z
+lastUpdated: 2024-10-21T09:27:01.418Z
 startTime: 2024-09-08T14:24:54.134Z
 generator: Upptime <https://github.com/upptime/upptime>
