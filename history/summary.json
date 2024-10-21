@@ -4,7 +4,7 @@
     "url": "$DED_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-dedicated-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 122,
     "timeMonth": 120,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-21": 0
+    }
   },
   {
     "name": "Web Server",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-server",
     "status": "up",
-    "uptime": "83.63%",
+    "uptime": "83.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.60%",
+    "uptimeWeek": "62.87%",
     "uptimeMonth": "77.16%",
-    "uptimeYear": "83.63%",
+    "uptimeYear": "83.69%",
     "time": 113,
     "timeDay": 163,
     "timeWeek": 127,
